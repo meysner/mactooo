@@ -4,6 +4,7 @@
       "transparency": "html, body, nav, header, .app-root, #pass-sidebar, #main, #content, section, #root > div, #root > div > div, #root > div > div > div > div > div, [data-testid=\"home-container\"], [data-testid=\"home-container\"] > div, [data-testid=\"home-container\"] > div > div > div, [data-test-id=\"table-view-row-wrapper\"]{\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition: background-color 0.5s ease-in-out, background 0.5s ease-in-out, border 0.5s ease-in-out, box-shadow 0.5s ease-in-out !important;\n}"
     },
 "+icsw.ru.css": {
+  "transparency":"main_content_block",
     "example-transparency": "html, body, header, nav, main, section, footer {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition: background-color 0.5s ease-in-out, background 0.5s ease-in-out, border 0.5s ease-in-out, box-shadow 0.5s ease-in-out !important;\n}",
     "example-darkreader": ":root {\n  --darkreader-background-ffffff: transparent !important;\n}",
     "example-no-footer": "footer, .site-footer {\n  display: none !important;\n}",
